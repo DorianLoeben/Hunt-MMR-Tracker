@@ -1,3 +1,5 @@
+**NOTE: Crytek disabled the file where MMR data is stored. This is also why you do not have a match history after restarting the game client**
+
 # Hunt MMR Tracker
 
 This Tool is meant to be a lightweight python alternative to similar tools like
